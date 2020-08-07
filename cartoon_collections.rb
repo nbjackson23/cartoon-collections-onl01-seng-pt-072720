@@ -63,5 +63,4 @@ end
 
 find_the_cheese2(snacks, cheese_types)
   end
-end
 
