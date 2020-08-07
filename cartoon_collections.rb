@@ -12,6 +12,8 @@ end
 
 roll_call_dwarves(dwarves)
 
+
+
 def summon_captain_planet(array)
   nu_array = []
   i = 0 
@@ -20,7 +22,7 @@ def summon_captain_planet(array)
     i += 1 
   end 
   nu_array
-
+end
 
 summon_captain_planet(planeteer_calls)
 
@@ -37,6 +39,7 @@ end
 
 long_planeteer_calls(call_screams)
 
+
 cheese_types = ["cheddar", "gouda", "camembert"]
 snacks = ["crackers", "gouda", "thyme"]
 
@@ -51,6 +54,9 @@ end
 
 find_the_cheese(snacks)
 
+
+
+# This is a much better way cause the cheese array isn't included in the method.
 cheese_types = ["cheddar", "gouda", "camembert"]
 snacks = ["crackers", "gouda", "thyme"]
 
