@@ -20,7 +20,7 @@ ddef summon_captain_planet(array)
     i += 1 
   end 
   nu_array
-end
+
 
 summon_captain_planet(planeteer_calls)
 
